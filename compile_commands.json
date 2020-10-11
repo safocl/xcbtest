@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/safff/Projects/xcb/build/src",
+  "command": "/usr/bin/c++   -Wall -Wextra -Wformat -Wformat-security -pedantic -pedantic-errors -Werror -g -fPIC -pie -fstack-protector -std=gnu++2a -o CMakeFiles/xcbtest.dir/main.cpp.o -c /home/safff/Projects/xcb/src/main.cpp",
+  "file": "/home/safff/Projects/xcb/src/main.cpp"
+}
+]
